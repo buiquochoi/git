@@ -4,3 +4,4 @@ Hoi bui 1996
 2. git add *
 3. git commit -m "descript"
 4. git push
+Android
