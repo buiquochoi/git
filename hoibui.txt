@@ -5,3 +5,4 @@ Hoi bui 1996
 3. git commit -m "descript"
 4. git push
 Android
+Today im fine
